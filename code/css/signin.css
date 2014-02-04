@@ -1,0 +1,60 @@
+.sign-in
+{
+	border: solid;
+	width:30%;
+	margin:auto;
+	border-radius: 2px;
+}
+
+.sign-in > form
+{
+	margin:auto;
+}
+
+.sign-in > form > div
+{
+	margin:auto;
+}
+
+.sign-in > form > div > label
+{
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+.sign-in > form > div > input
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 20px;
+	background-color: #B7B7B7;
+	border: none;
+	color:black;
+	border-radius: 3px;
+}
+
+
+.sign-in > form > div > a:link
+{
+	display: inline;
+	padding: 10px;
+	font-size: 20px;
+	color: black;
+}
+
+.sign-in > form > div > a:visited
+{
+	display: inline;
+	padding: 10px;
+	font-size: 14px;
+	color: black;
+}
+
+
+.sign-in-button
+{
+	font-size: 24px;
+	margin: 16px;
+	border-radius: 3px;
+	border: none;
+}

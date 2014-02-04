@@ -1,0 +1,54 @@
+.startgroup-content
+{
+	border-radius: 2px;
+	width: 30%;
+	border-color: black;
+	border: solid;
+	margin:auto;
+	list-style: none;
+	padding: 5px;
+}
+
+.startgroup-content > form > div
+{
+
+	margin-left:15px;
+}
+
+.startgroup-content > form > div > ul 
+{
+	margin: 0px;
+	list-style: none;
+}
+
+.startgroup-content > form > div > ul > li
+{
+	list-style: none;
+}
+
+.startgroup-content > form > div > label
+{
+	font-size: 18px;
+}
+
+.startgroup-content > form > div > input
+{
+	margin-left: 8px;
+	margin-top: 12px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px;
+	width: 150px;
+}
+
+.startgroup-content > form > div > select
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px;
+	width: 150px;
+}

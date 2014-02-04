@@ -1,0 +1,53 @@
+.join-content 
+{
+	border-radius: 2px;
+	width: 35%;
+	border-color: black;
+	border: solid;
+	margin:auto;
+}
+
+.join-button
+{
+	height: 38px;
+	width: 100px;
+	font-size: 24px;
+	margin:auto;
+	border-radius: 3px;
+	border: none;
+}
+
+.join-content > form >div
+{
+
+	margin-left:15px;
+}
+
+.join-content > form > div > label
+{
+	font-size: 24px;
+}
+
+.join-content > form > div > input
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px;
+}
+.join-content > form > div > select
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px
+}
+
+.error
+{
+	color: red;
+}

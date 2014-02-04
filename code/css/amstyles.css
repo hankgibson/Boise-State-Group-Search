@@ -1,0 +1,134 @@
+body 
+{
+	font-family: 'Oswald', sans-serif;
+	background-color: #464646;
+}
+
+
+
+.navigation 
+{
+	font-size: 28px;
+	letter-spacing: 8px;
+	text-decoration: none;
+	text-transform: uppercase;
+	float:left;
+}
+
+.navigation > ul 
+{	
+	margin: 0;
+	padding: 50px;
+	margin-left: 25px;
+}
+
+.navigation > ul > li 
+{
+	display: inline;
+}
+
+.navigation > ul > li > a 
+{
+	vertical-align: middle;
+	color:#B7B7B7;
+	padding: 0px 15px;
+	font-size: 20px;
+	letter-spacing: .1em;
+	text-decoration: none;
+}
+
+.navigation > ul > li > a:hover 
+{
+	color: #F1632A;
+}
+
+.top > .topImage
+{
+
+	padding: 10px;
+	float:right;
+}
+
+.top > .homeImage
+{
+	padding: 10px;
+	float:left;
+}
+
+.top
+{
+	overflow:hidden;
+	background-color:#09347A;
+	height: 100px;
+	width:100% ;
+}
+
+#current-page > a 
+{
+	text-decoration: underline;
+	color: #F1632A; 
+}
+
+/*
+	Styles for the about page
+*/
+
+.about-content
+{
+	background-color: #B7B7B7;
+	width:70%;
+	margin:auto;
+	border-radius: 2px;
+}
+
+.about-content > p
+{
+	padding:10px 10px;
+	font-size: 20px;
+	position:relative;
+}
+
+/*
+	Styles for the find group page
+*/
+
+
+
+#footer 
+{
+  padding: 10px;
+  text-align: center;
+  font-size: 11px;
+}
+
+#footer > ul 
+{
+  list-style: none;
+}
+
+#footer > li 
+{
+  display: inline;
+  padding: 0 10px;
+  color: #000;
+}
+
+#footer > li > a 
+{
+  color: #000;
+}
+
+.clear 
+{
+  clear:both;
+}
+
+.link > a:visited
+{
+	color: #F1632A;
+}
+
+.badlogin
+{
+	color: red;
+}

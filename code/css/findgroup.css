@@ -1,0 +1,141 @@
+.find-sidebar
+{
+	
+	padding:5px;
+	border: solid;
+	font-size: 20px;
+	border-color: black;
+	border-radius:2px;
+	float:left;
+}
+
+.find-sidebar >form > div > ul
+{
+	margin: 0px;
+}
+
+.find-sidebar >form > div > ul > li 
+{
+	list-style: none;
+	border: none;
+}
+
+.find-sidebar > div > ul  > li
+{
+	list-style: none;
+	border: none;
+}
+
+.find-sidebar > form > div > input
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px;
+}
+
+.find-sidebar > form > div > select
+{
+	margin-left: 8px;
+	margin-top: 16px;
+	font-size: 18px;
+	background-color: #B7B7B7;
+	border: none;
+	border-radius: 3px;
+	width: 150px;
+
+}
+
+.find-content
+{	
+	margin:15px 0px;
+	width:100%;
+}
+
+.find-results
+{
+	float:right;
+	padding:5px;
+	margin:5px;
+	width:60%;
+}
+
+.find-results > p
+{
+	display: inline;
+} 
+
+.find-results > div
+{
+	border-radius: 3px;
+	background-color: #B7B7B7;
+	width: 60%;
+}
+
+.find-results > div:hover
+{
+	border-radius: 3px;
+	background-color: #CCC;
+}
+
+.find-results > div > ul
+{
+	list-style:none;
+}
+
+.find-results > div > ul > li
+{
+	font-size: 20px;
+}
+
+.find-results > ol
+{
+	list-style: none;
+}
+
+.find-results > ol > li 
+{
+	font-size: 16px;
+	background-color: #B7B7B7;
+	width:70%;
+	margin: 12px;
+	padding: 15px;
+	border-radius: 2px;
+}
+
+.find-results > ol > li:hover
+{
+	background-color: #ccc;
+}
+
+.not-there
+{
+	font-size: 20px;
+}
+
+.result
+{
+
+}
+
+#hint
+{
+	cursor:pointer;
+}
+	
+.tooltip
+{
+	margin:8px;
+	padding:8px;
+	background-color: #09347A ;
+	position: absolute;
+	z-index: 2;
+	border-radius: 3px;
+}
+
+#info
+{
+	font-size: 12px;
+}

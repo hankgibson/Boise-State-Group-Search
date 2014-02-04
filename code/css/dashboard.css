@@ -1,0 +1,75 @@
+.dashboard-content
+{
+	display: inline;
+}
+
+.dashboard-your-information
+{
+	float: left;
+	border: solid;
+	font-size: 20px;
+	padding: 10px;
+	width:40%;
+}
+
+.info >li
+{
+	list-style: none;
+}
+
+.dashboard-your-groups > div > ul
+{
+	list-style: none;
+}
+
+.dashboard-your-groups > div > ul > li
+{
+	font-size: 18px;
+}
+
+.mygroup
+{
+	font-size: 20px;
+	width:90%;
+	border-radius: 3px;
+	background-color: #B7B7B7;
+}
+
+.mygroup:hover
+{
+	background-color: #ccc;
+}
+
+.dashboard-calendarholder
+{
+  float: right;
+  width: 40%;
+}
+
+#calendar
+{
+  top: 0;
+}
+
+#calendar.fixed
+{
+	margin-top: 32px;
+	margin-right: 8px;
+	position: fixed;
+  	top: 0;
+}
+
+#hint
+{
+	cursor:pointer;
+}
+	
+.tooltip
+{
+	margin:8px;
+	padding:8px;
+	background-color: #09347A ;
+	position: absolute;
+	z-index: 2;
+	border-radius: 3px;
+}
