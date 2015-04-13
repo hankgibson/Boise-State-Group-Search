@@ -80,7 +80,7 @@
 
   <!-- Footer -->
   <div id="footer">
-    <li>&copy;2013 Hank Gibson</li>
+    <li>&copy;2015 Hank Gibson</li>
     <li><a href="http://www.boisestate.edu">Boise State University</a></li>
   </div>
 </body>
